@@ -10,6 +10,6 @@ $ cd csv_export
 $ docker-compose up
 ```
 ## Dockerの構成
-Nginx:latest
-php:7.2-fpm
-MySQL:5.7
+- Nginx:latest
+- php:7.2-fpm
+- MySQL:5.7
