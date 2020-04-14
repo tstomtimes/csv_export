@@ -1,7 +1,7 @@
 # CSV Export Sample
 
 ## 概要
-DockerベースのLANP環境にCSV出力のサンプルコードを配置したのみのセットです。
+DockerベースのLANP環境にCSV出力のサンプルコードを配置したもの
 
 ## 使い方
 ```
